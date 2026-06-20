@@ -1,0 +1,10 @@
+CLOUD SERVICES BILLING AND REFUND POLICY
+
+1. Subscription Cycles
+All premium plans run on a automated monthly billing sequence initialized on the 1st of every calendar month.
+
+2. Refund Escalations
+Our technical agents cannot authorize refunds directly. If a customer experiences duplicate transaction charges, the ticket must immediately be flagged as a billing sensitivity dispute and escalated to a human finance supervisor. 
+
+3. Processing Windows
+Approved refunds take 5 to 7 operational banking business days to reflect in the customer's primary account interface ledger.

@@ -1,0 +1,12 @@
+INTERFACE LOADING AND BROWSER COOKIE GUIDE
+
+Issue: Dashboard loading animations spinning infinitely or frozen interface panels.
+
+Step 1: Hard Refresh
+Force your browser to clear its local network cache by hitting Ctrl + F5 (Windows) or Cmd + Shift + R (Mac).
+
+Step 2: Clear Storage Assets
+Navigate to Browser Settings -> Privacy and Security -> Cookies and Site Data. Select 'Clear data for this domain' and click confirm.
+
+Step 3: Incognito Testing
+Launch an isolated Incognito or Private window to check if background browser extensions are interfering with the login scripts.
